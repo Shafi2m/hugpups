@@ -11,33 +11,33 @@
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/asset/image.jpg"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/asset/pexels-charlesdeluvio-1851164.jpg"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/asset/pexels-gilberto-reyes-259461-825948.jpg"
   },
   {
     "name": "Lucy",
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/asset/pexels-pixabay-220938.jpg"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/asset/home page dog.jpg"
   }]
